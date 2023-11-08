@@ -1,0 +1,61 @@
+* {
+    margin: 20;
+    top: 20;
+}
+
+
+h1 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.MisCuentas {
+    padding: 15px;
+    color: lawngreen;
+    display: flex;
+    justify-content: center;
+}
+
+.password {
+    padding: 15px;
+    color: lawngreen;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.but {
+    display: grid;
+    grid-gap: 15px;
+    margin-left: 20px;
+    border: red 2px solid;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btnss {
+    display: flex;
+    justify-content: center;
+    margin-right: 4px;
+    gap: 20px;
+}
+
+#boton {
+    display: block;
+    margin-right: auto;
+    margin-left:auto;
+    gap: 20px;
+    width: 90px;
+
+}
+
+#navbarTogglerDemo01 {
+    background-color: #e3f2fd;
+ 
+}
